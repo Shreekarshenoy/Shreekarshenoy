@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreekar shenoy</h1>
 <h3 align="center">I'm a student passionate about learning various technologies. I have experience with ReactJS, Java, C, SQL, and a bit of Python. I'm continuously expanding my skill set and currently looking forward to enhancing my knowledge in domains like business analysis and project management. Let's connect and collaborate on exciting projects!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreekarshenoy" alt="shreekarshenoy" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shreekarsh57401" target="blank"><img src="https://img.shields.io/twitter/follow/shreekarsh57401?logo=twitter&style=for-the-badge" alt="shreekarsh57401" /></a> </p>
 
 - 🌱 I’m currently learning **MERN,Java,Python**
