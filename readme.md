@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working as an **Associate Software Engineer** at **MicroGenesis TechSoft**  
-🌱 Pursuing **B.E. in Computer Science** @ *Canara Engineering College*  
+🌱 Pursued **B.E. in Computer Science** @ *Canara Engineering College*  
 💬 Reach me at: **shreekarshenoy@gmail.com**  
 ⚡ Fun fact: In my free time, I **love to cook** 🍳  
 
